@@ -1,11 +1,6 @@
-# CosPlan (Data coming soon)
+# CosPlan 
 
-## ❗️ Dataset Coming Soon
-> **Note:** The specific datasets and metadata files required to run these evaluations are currently being prepared for public release. 
->
-> **Please check back soon for the dataset upload!** 
-> *Ensure you have the `datasets/` directory populated before running the evaluation scripts.*
-
+## ❗ Dataset: [CoSPlan](https://huggingface.co/datasets/shrg7/COSPLAN)
 ## 📂 File Structure
 
 *   **`eval.py`**  
