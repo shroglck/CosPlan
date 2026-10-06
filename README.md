@@ -8,9 +8,8 @@ CoSPlan evaluates vision-language models on error detection and step completion 
 
 ## Links
 
-[Project page](https://shroglck.github.io/cos_plan/) · [Paper PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10744.pdf) · [ECCV publication](https://link.springer.com/chapter/10.1007/978-3-032-37422-6_13) · [ECCV presentation](https://eccv.ecva.net/virtual/2026/poster/5459) · [arXiv](https://arxiv.org/abs/2512.10342) · [Dataset](https://huggingface.co/datasets/shrg7/COSPLAN) · [Code](https://github.com/shroglck/CosPlan) · [Try CoSPlan](https://shroglck.github.io/cos_plan/Forms/puzzle_quiz.html) · [Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202026/5459.png?t=1787012377.5299084) · [Slides](https://eccv.ecva.net/media/eccv-2026/Slides/5459.pdf) · [Video](https://youtu.be/_gmbzqcxmv4)
-
-## CoSPlan in action
+[Project page](https://shroglck.github.io/cos_plan/) · [Paper PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10744.pdf) · [ECCV publication](https://link.springer.com/chapter/10.1007/978-3-032-37422-6_13) · [ECCV presentation](https://eccv.ecva.net/virtual/2026/poster/5459) · [arXiv](https://arxiv.org/abs/2512.10342) · [Dataset](https://huggingface.co/datasets/shrg7/COSPLAN) · 
+## CoSPlan
 
 ![CoSPlan animated demonstration](CosPlan.gif)
 
