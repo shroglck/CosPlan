@@ -1,6 +1,6 @@
 # CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates
 
-## Published at ECCV 2026
+## Accepted at ECCV 2026
 
 **Shresth Grover, Priyank Pathak, Akash Kumar, and Yogesh S. Rawat**
 
